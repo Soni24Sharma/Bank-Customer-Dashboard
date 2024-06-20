@@ -1,5 +1,6 @@
 # Bank-Customer-Dashboard
 Dataset has been used in this project has taken from Kaggle
+
 Overview
 The Bank Customer Data Dashboard provides a visual representation of various metrics related to customer demographics, account balances, and trends over time. It is designed to help stakeholders understand the bank's customer base and make informed decisions based on data-driven insights.
 
